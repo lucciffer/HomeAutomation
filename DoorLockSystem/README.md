@@ -6,3 +6,5 @@ This can even be encorporated with electronic door locks instead of servo motors
 
 This MATLAB Simulink model is tested and works fine.  
 In case of errors(if any) report to techh.engine@gmail.com
+
+#NOTE: ALL FILES/CODES ARE IN FORM OF MATLAB SIMULINK MODELS AND NOT ARDUINO CODES
